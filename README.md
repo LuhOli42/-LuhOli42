@@ -23,3 +23,4 @@ Desenvolvedora backend. E no momento estou num processo de aprendizagem e aprofu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Luiza GitHub stats](https://github-readme-stats.vercel.app/api?username=LuhOli42&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
